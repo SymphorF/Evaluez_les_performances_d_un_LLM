@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Qui est le meilleur joueur de la NBA ?",
+    "answer": "Actuellement, le débat sur le meilleur joueur de la NBA est souvent centré sur **Nikola Jokić** (Nuggets) et **LeBron James** (Lakers), avec des mentions pour **Luka Dončić** (Mavericks) et **Jayson Tatum** (Celtics).\n\n- **Jokić** est le favori pour le titre de MVP 2024, grâce à ses statistiques complètes (triple-double moyen) et son leadership.\n- **LeBron James**, malgré son âge, reste une légende vivante avec une longévité exceptionnelle.\n- **Dončić** et **Tatum** sont des superstars montantes, mais leur palmarès est encore en construction.\n\nLe titre de \"meilleur joueur\" dépend des critères (statistiques, trophées, impact, etc.). En 2024, **Jokić** est souvent considéré comme le meilleur.",
+    "contexts": [],
+    "num_contexts": 0
+  },
+  {
+    "question": "Parle-moi des Golden State Warriors",
+    "answer": "Les **Golden State Warriors** sont une franchise emblématique de la NBA, basée à San Francisco (Californie). Voici les points clés à retenir :\n\n- **Fondation** : Créés en 1946 sous le nom de **Philadelphia Warriors**, ils ont déménagé à San Francisco en 1962.\n- **Palmarès** : 7 titres NBA (1947, 1956, 1975, 2015, 2017, 2018, 2022), dont 4 en 8 ans (2015-2022) avec Stephen Curry, Kevin Durant (2017-2018) et Klay Thompson.\n- **Ère moderne** : Dominance sous l'ère **Steve Kerr** (entraîneur depuis 2014), avec un jeu basé sur le **shoot à 3 points** et une défense solide.\n- **Joueurs légendaires** : Wilt Chamberlain, Rick Barry, Tim Duncan (en rivalité), Stephen Curry (MVP 2015, 2016, 2022), Draymond Green.\n- **Stadium** : **Chase Center** (depuis 2019), après 42 ans au **Oracle Arena**.\n\n**Style de jeu** : Offense rapide, tir à 3 points, et défense en transition. Une des franchises les plus innovantes de l'histoire.\n\nTu veux des détails sur un aspect en particulier ?",
+    "contexts": [],
+    "num_contexts": 0
+  },
+  {
+    "question": "Quelles sont les équipes les plus titrées ?",
+    "answer": "Les équipes les plus titrées en NBA sont :\n\n1. **Boston Celtics** – 17 titres (dernier en 2024)\n2. **Los Angeles Lakers** – 17 titres (dernier en 2020)\n3. **Golden State Warriors** – 7 titres (dernier en 2022)\n4. **Chicago Bulls** – 6 titres (dernier en 1998)\n5. **San Antonio Spurs** – 5 titres (dernier en 2014)\n\nLes Celtics et les Lakers dominent historiquement, avec un titre de plus que les Warriors.",
+    "contexts": [],
+    "num_contexts": 0
+  },
+  {
+    "question": "Qui est LeBron James ?",
+    "answer": "LeBron James est un joueur de basket-ball américain, considéré comme l'un des plus grands de l'histoire de la NBA. Né le 30 décembre 1984, il a évolué comme ailier et meneur de jeu pour les Cleveland Cavaliers, les Miami Heat, les Los Angeles Lakers et les Cleveland Cavaliers (en deux périodes). Il a remporté 4 titres NBA (2012, 2013, 2016, 2020), 4 MVP (2009, 2010, 2012, 2013) et est le meilleur marqueur de l'histoire de la NBA. Il a également été sélectionné 20 fois en NBA All-Star et a remporté 2 médailles d'or olympiques (2008, 2012).",
+    "contexts": [],
+    "num_contexts": 0
+  },
+  {
+    "question": "Qu'est-ce que le All-Star Game ?",
+    "answer": "Le **All-Star Game** de la NBA est un match annuel opposant les meilleurs joueurs de la saison, sélectionnés par les fans, les médias et les entraîneurs. Il se déroule généralement en février et met en avant deux équipes : la **Conférence Est** contre la **Conférence Ouest** (ou depuis 2020, deux équipes formées par les capitaines).\n\n**Caractéristiques clés** :\n- **Sélection** : 12 joueurs par conférence (auparavant 15).\n- **Format** : Match sans enjeu compétitif, axé sur le spectacle et les performances individuelles.\n- **Événements associés** : Concours de dunks, 3-points, et Skills Challenge.\n\nCréé en 1951, il célèbre les stars de la ligue dans une ambiance festive.",
+    "contexts": [],
+    "num_contexts": 0
+  },
+  {
+    "question": "Comment fonctionne la draft NBA ?",
+    "answer": "La draft NBA est un processus annuel où les équipes sélectionnent des joueurs amateurs (majoritairement issus des universités américaines) ou internationaux pour rejoindre la ligue. Voici son fonctionnement en bref :\n\n1. **Ordre de sélection** :\n   - Les équipes les moins performantes de la saison précédente ont les premiers choix (par tirage au sort pour les 3 premières places).\n   - Les équipes classées par ordre inverse de leur bilan saisonnier suivent.\n\n2. **Rounds** :\n   - 2 rounds (60 picks au total).\n   - Les 14 premiers choix (lottery picks) sont déterminés par un tirage au sort pour les équipes non qualifiées en playoffs.\n\n3. **Éligibilité** :\n   - Joueurs âgés d'au moins 19 ans.\n   - Joueurs ayant quitté l'université depuis au moins 1 an (sauf exceptions).\n\n4. **Trade** :\n   - Les droits de draft peuvent être échangés entre équipes.\n\n5. **Signature** :\n   - Les joueurs draftés doivent signer un contrat avec l'équipe qui les a sélectionnés (sauf accord contraire).\n\nExemple : En 2023, Victor Wembanyama a été choisi en 1er par les Spurs après un tirage au sort favorable.",
+    "contexts": [],
+    "num_contexts": 0
+  },
+  {
+    "question": "Qui a remporté le MVP en 2023 ?",
+    "answer": "En 2023, le MVP (Most Valuable Player) de la saison régulière NBA a été remporté par **Joel Embiid** des Philadelphia 76ers.\n\nIl a dominé les statistiques avec une moyenne de **33,1 points, 10,2 rebonds et 3,1 passes décisives** par match, menant son équipe à un excellent bilan (54-28). C'était sa première victoire au titre de MVP après avoir été finaliste en 2021 et 2022.\n\n*Source : NBA Awards 2023.*",
+    "contexts": [],
+    "num_contexts": 0
+  },
+  {
+    "question": "Quelle est l'histoire des Chicago Bulls ?",
+    "answer": "Les **Chicago Bulls** sont une franchise emblématique de la NBA, fondée en **1966**. Voici les points clés de leur histoire :\n\n1. **Débuts difficiles** : Les Bulls ont mis du temps à percer, atteignant les playoffs pour la première fois en **1975** et remportant leur premier titre de division en **1977**.\n\n2. **Ère Michael Jordan (1984–1998)** :\n   - **1984** : Draft de Michael Jordan, qui révolutionne la franchise.\n   - **1991, 1992, 1993** : Trois titres consécutifs (avec Scottie Pippen et coach Phil Jackson).\n   - **1996–1998** : Retour de Jordan après sa retraite et trois nouveaux titres (72 victoires en saison régulière en 1996).\n   - **1998** : Retraite de Jordan, fin d'une dynastie.\n\n3. **Post-Jordan** :\n   - **2000–2010** : Période de transition avec des joueurs comme Derrick Rose (MVP en 2011) et des playoffs irréguliers.\n   - **2010–2023** : Reconstruction avec Jimmy Butler, Zach LaVine et DeMar DeRozan, mais sans titre.\n\n4. **Culture et héritage** :\n   - Symbole de la NBA grâce à Jordan et aux années 90.\n   - Rivalités légendaires (Lakers, Pistons, Knicks).\n   - Maillot retiré : **#23 (Jordan), #4 (Pippen), #33 (Derrick Rose)**.\n\nAujourd'hui, les Bulls restent une franchise populaire, mais sans titre depuis 1998.",
+    "contexts": [],
+    "num_contexts": 0
+  },
+  {
+    "question": "C'est quoi un triple-double ?",
+    "answer": "Un **triple-double** en NBA est une performance individuelle où un joueur enregistre au moins **10 unités dans trois des cinq catégories statistiques suivantes** lors d'un même match :\n- **Points**\n- **Rebonds**\n- **Passes décisives**\n- **Interceptions**\n- **Contre(s)**\n\nExemple : 12 points, 11 rebonds et 10 passes décisives.\n\nC'est une marque d'efficacité polyvalente, souvent associée aux meilleurs joueurs (ex : Nikola Jokić, Russell Westbrook).",
+    "contexts": [],
+    "num_contexts": 0
+  },
+  {
+    "question": "Quelles sont les règles du basketball ?",
+    "answer": "Voici les règles principales du basketball :\n\n1. **Objectif** : Marquer plus de points que l'adversaire en faisant passer le ballon à travers un panier (3 points si à distance, 2 points sinon).\n\n2. **Durée** : 4 quarts-temps de 12 minutes (NBA) ou 10 minutes (FIBA), avec une mi-temps.\n\n3. **Déplacement** :\n   - **Dribbler** : Le joueur doit dribbler pour se déplacer avec le ballon.\n   - **Pas** : Limite de 2 pas sans dribbler (ou 3 pas en NBA avec la règle \"step-back\").\n\n4. **Fautes** :\n   - **Personnelles** : Contact illégal (5 fautes = exclusion).\n   - **Technique** : Comportement antisportif.\n   - **Faute offensive** : Contact avec le défenseur en position légale.\n\n5. **Violations** :\n   - **Marcher** : Pas de dribbles ou pas illégaux.\n   - **Double dribble** : Reprendre le dribble après l'avoir arrêté.\n   - **3 secondes** : Rester plus de 3 secondes dans la raquette adverse.\n   - **24 secondes** : Ne pas tirer dans ce délai (ou 14 secondes en transition).\n\n6. **Remises en jeu** :\n   - Après un panier : L'équipe adverse remet en jeu depuis la ligne de fond.\n   - Après une faute : L'équipe victime tire les lancers francs (1 ou 2) ou remet en jeu.\n\n7. **Autres règles** :\n   - **Hors-limites** : Le ballon doit rester dans les limites du terrain.\n   - **3 secondes défensives** : Limite de 3 secondes en défense dans la raquette.\n\nCes règles peuvent varier légèrement selon les ligues (NBA, FIBA, NCAA, etc.).",
+    "contexts": [],
+    "num_contexts": 0
+  }
+]

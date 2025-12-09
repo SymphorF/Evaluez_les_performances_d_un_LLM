@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Quels sont les 5 joueurs les plus âgés ?",
+    "result": "Player: P,J, Tucker | Age: 40 | Team: NYK\nPlayer: LeBron James | Age: 40 | Team: LAL\nPlayer: Chris Paul | Age: 40 | Team: SAS\nPlayer: Al Horford | Age: 39 | Team: BOS\nPlayer: Kyle Lowry | Age: 39 | Team: PHI",
+    "success": true
+  },
+  {
+    "question": "Donne-moi les 10 joueurs avec le plus de points par match",
+    "result": "Player: Shai Gilgeous-Alexander | PTS: 2485 | Team: OKC\nPlayer: Anthony Edwards | PTS: 2180 | Team: MIN\nPlayer: Nikola Jokić | PTS: 2072 | Team: DEN\nPlayer: Giannis Antetokounmpo | PTS: 2037 | Team: MIL\nPlayer: Jayson Tatum | PTS: 1930 | Team: BOS\nPlayer: Devin Booker | PTS: 1920 | Team: PHX\nPlayer:",
+    "success": true
+  },
+  {
+    "question": "Liste les équipes NBA",
+    "result": "Code: ATL | Nom_complet_de_l_equipe: Atlanta Hawks\nCode: BKN | Nom_complet_de_l_equipe: Brooklyn Nets\nCode: BOS | Nom_complet_de_l_equipe: Boston Celtics\nCode: CHA | Nom_complet_de_l_equipe: Charlotte Hornets\nCode: CHI | Nom_complet_de_l_equipe: Chicago Bulls\nCode: CLE | Nom_complet_de_l_equipe: Cle",
+    "success": true
+  },
+  {
+    "question": "Quels joueurs ont FG% > 50% ?",
+    "result": "Player: Alondes Williams | FG_percent: 100.0 | Team: DET\nPlayer: Jahmir Young | FG_percent: 80.0 | Team: CHI\nPlayer: Kai Jones | FG_percent: 79.8 | Team: DAL\nPlayer: N'Faly Dante | FG_percent: 76.9 | Team: HOU\nPlayer: Jaxson Hayes | FG_percent: 72.2 | Team: LAL\nPlayer: Jarrett Allen | FG_percent: 70",
+    "success": true
+  },
+  {
+    "question": "Montre le top 15 des joueurs par points totaux",
+    "result": "Players: Anthony Edwards | Nombre_de_point_total: 2180 | Pourcentage_de_tirs_reussis: 44.7\nPlayers: Nikola Jokić | Nombre_de_point_total: 2072 | Pourcentage_de_tirs_reussis: 57.6\nPlayers: Giannis Antetokounmpo | Nombre_de_point_total: 2037 | Pourcentage_de_tirs_reussis: 60.1\nPlayers: Jayson Tatum | ",
+    "success": true
+  }
+]

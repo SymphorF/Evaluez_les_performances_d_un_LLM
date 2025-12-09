@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "evaluez-les-performances-d-un-llm"
+version = "0.1.0"
+description = "Evaluer et optimiser un LLM avec le framework RAGAS pour avoir des réponses plus optimisées"
+authors = ["Symphor F <symphorf@yahoo.fr>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+streamlit = "1.44.1"
+mistralai = ">=1.9.0"
+langchain = "0.3.23"
+faiss-cpu = "1.10.0"
+PyPDF2 = "3.0.1"
+python-docx = "1.1.2"
+pandas = "2.2.3"
+openpyxl = "3.1.5"
+python-dotenv = "1.1.0"
+requests = "2.32.5"
+streamlit-feedback = "0.1.4"
+pymupdf = "*"
+pillow = "*"
+ragas = ">=0.1.0"
+easyocr = "*"
+tqdm = "*"
+instructor = ">=0.4.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
