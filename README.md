@@ -45,6 +45,9 @@ pip install -r requirements.txt
 
 Pour éviter les conflits de versions, ce nouvel environnemnt est créé spécialement pour les scripts d'évaluation
 
+➡️ En effet Ragas 0.3.9 n’est pas compatible avec LangChain récent
+➡️ Or langchain>=1.0.2,<2.0.0 est la version qui fonctionne parfaitement avec non RAG
+
 ```bash
 # Sortez de l'environnement virtuel actuel
 deactivate
@@ -98,15 +101,25 @@ MISTRAL_API_KEY=votre_clé_api_mistral
 
 ```
 .
+├── documents/              # Ensembles des documents (Rapport de présentations, autres documents...)
+├── inputs/                 # Dossier pour les documents sources
+├── notebooks/              # Notebook pour visualiser les scores RAGAS 
+├── postgreSQL/             # Script SQL et schéma UML
+├── utils/                  # Modules utilitaires
+|   ├── config.py           # Configuration de l'application
+|   ├── data_loader_.py     # Gestion de la base de données
+|   ├── evaluate_ragas.py   # Evaluation de performance du RAG
+|   ├── load_excel_to_db.py # Introduction des données Excel dans la base
+|   ├── sql_tool.py         # Enrichissement du RAG avec les données ajoutées
+|   ├── donnees_nba.xlsx    # Données d'enrichissement de la base format Excel
+|   └── vector_store.py     # Gestion de l'index vectoriel
+├── vector_db/              # Dossier pour l'index FAISS et les chunks
 ├── MistralChat.py          # Application Streamlit principale
 ├── indexer.py              # Script pour indexer les documents
-├── inputs/                 # Dossier pour les documents sources
-├── vector_db/              # Dossier pour l'index FAISS et les chunks
-├── database/               # Base de données SQLite pour les interactions
-└── utils/                  # Modules utilitaires
-    ├── config.py           # Configuration de l'application
-    ├── database.py         # Gestion de la base de données
-    └── vector_store.py     # Gestion de l'index vectoriel
+├── pipeline_rag.py         # Contrôle et validation des données via pydantic    
+├── requirements.txt        # Dépendances et version de ce projet     
+├── requirements_ragas.txt  # Dépendances et version évaluation ragas              
+└── README                  # Ce fichier  
 
 ```
 
@@ -251,16 +264,16 @@ Et reposer des questions statistique du type :
 
 Selon le fichier Excel, la réponse devrait être : 
 
-Alondes Williams 100%
-Skal Labissiere 100%
-PJ Dozier 66.7%
+  - Alondes Williams 100%
+  - Skal Labissiere 100%
+  - PJ Dozier 66.7%
 
 Ou encore, "Quels sont les 3 joueurs ayant des tentative de 3 points les plus élevé ?" 
 
 Selon le fichier Excel et la base de données ça devrait être : 
 
-Anthony Edwards 814
-Stephen Curry  784
-Malik Beasley 763
+  - Anthony Edwards 814
+  - Stephen Curry  784
+  - Malik Beasley 763
 
 Si ce ne sont pas ces réponses alors le RAG est à revoir au niveau de la recherche des réponses dans la base de données. 
