@@ -218,28 +218,6 @@ st.caption("Powered by Mistral AI & Faiss | Data-driven NBA Insights")
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # MistralChat.py (version RAG + SQL Tool minimal changes)
 
 import streamlit as st
@@ -609,6 +587,45 @@ if prompt := st.chat_input(f"Posez votre question sur la {NAME}..."):
 # Footer
 st.markdown("---")
 st.caption("Powered by Mistral AI & Faiss | Data-driven NBA Insights")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

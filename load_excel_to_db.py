@@ -251,4 +251,4 @@ def load_excel_to_db(file_path: str):
 
 
 if __name__ == "__main__":
-    load_excel_to_db("donnees_nba.xlsx")
+    load_excel_to_db("regular_NBA.xlsx")

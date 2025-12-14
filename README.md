@@ -228,6 +228,7 @@ Pour exécuter :
 
 Ce script permet de créer et compléter les tables dans la base de données PosgreSQL, c'est ici que le script sql_tool.py puisera ses réponses pour répondres aux questions purement statistiques. 
 
+Pour utiliser la version avec les données préalablement validées par Pydantic avant d'être introduit dans la base PostGresql, utiliser load_excel_to_db_pydantic.py
 
 ## Tool LangChain SQL (sql_tool.py)
 
