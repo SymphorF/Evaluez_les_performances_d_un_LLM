@@ -32,7 +32,7 @@ joblib==1.5.2
 threadpoolctl==3.6.0
 
 # --- UTILITIES ---
-requests==2.32.5
+requests==2.32.4
 python-dateutil==2.9.0.post0
 pyyaml==6.0.3
 regex==2025.11.3
